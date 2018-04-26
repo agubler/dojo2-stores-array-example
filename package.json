@@ -1,6 +1,7 @@
 {
   "name": "stores-array-example",
   "version": "1.0.0",
+  "main": "src/main.ts",
   "dependencies": {
     "@dojo/core": "~0.3.1",
     "@dojo/has": "~0.1.2",
